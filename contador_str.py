@@ -4,6 +4,7 @@ def limpeza():
     os.system('cls')
 
 def obter_inputs():
+    a = 0
     limpeza() 
     s = input("Digite uma palavra: ")
     limpeza()
